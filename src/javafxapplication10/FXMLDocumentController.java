@@ -24,7 +24,7 @@ import javax.swing.JOptionPane;
 /**
  * FXML Controller class
  *
- * @author firdahilya
+ * @author Tyas
  */
 public class FXMLDocumentController implements Initializable {
 
